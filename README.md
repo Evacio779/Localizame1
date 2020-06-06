@@ -8,3 +8,7 @@ Tambien se usa el barato y discontinuado EM411, que casi nadie lo usa por ahora
 
 EM411 Trabaja directamente con ttgo.
 
+Enviar cualquier mensaje al sim800L y ESP32 respondera con latitude y longitude del EM41 via un sms. 
+Se puede seguir usando el terminal mientras este este conectado al puerto usb del computador.
+
+
