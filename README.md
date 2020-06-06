@@ -11,4 +11,8 @@ EM411 Trabaja directamente con ttgo.
 Enviar cualquier mensaje al sim800L y ESP32 respondera con latitude y longitude del EM41 via un sms. 
 Se puede seguir usando el terminal mientras este este conectado al puerto usb del computador.
 
+Bateria Li-ion
+
+Si se usa bateria con 18650 dura mas de un dia con 2300 mah. El cargador de bateria es muy util mientras se carga a traes del puerto USB.
+
 
