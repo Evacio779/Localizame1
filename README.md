@@ -5,3 +5,6 @@ Inspirado en gnokii, que fue y es uno de los mejores programas para acceso a mod
 Tambien se usa el barato y discontinuado EM411, que casi nadie lo usa por ahora
 
 ![alt text](https://github.com/Evacio779/Localizame1/blob/master/Localizame1.jpg?raw=true)
+
+EM411 Trabaja directamente con ttgo.
+
